@@ -8,4 +8,7 @@ Tools used PowerBi,Excel
 ## Dashboard Interaction
 <a href="https://github.com/Swastika1124/PowerBi_project/blob/main/Education%20and%20IT%20sector%20scam%20dashboard.pbix">View Dashboard</a>
 
+## Report File
+<a href="https://github.com/Swastika1124/PowerBi_project/blob/main/Report%20File%20of%20Education%20And%20IT%20Sector%20Scams_260207_200955.pdf">View Report</a>
+
 
