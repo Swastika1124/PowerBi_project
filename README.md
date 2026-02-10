@@ -3,4 +3,4 @@ This project presents a structured dataset focused on scams in the Education and
 Tools used PowerBi,Excel
 
 ## Dataset Used
-<a href="https://github.com/Swastika1124/PowerBi_project/blob/main/Education_IT_Scam_Dataset.xlsx">
+<a href="https://github.com/Swastika1124/PowerBi_project/blob/main/Education_IT_Scam_Dataset.xlsx">Dataset</a>
